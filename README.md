@@ -1,4 +1,4 @@
-# NEEF
+# NEEF(A Node Embedding Enhancement Framework to Mitigate Cold Start Problem in GNN)
 
 # OGB(Open Graph Benchmark)
 
