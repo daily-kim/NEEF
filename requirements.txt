@@ -1,0 +1,8 @@
+pandas
+networkx
+scipy
+easydict
+numpy
+ogb
+matplotlib
+seaborn
